@@ -17,7 +17,7 @@ const Sidebar = () => {
     <div className="sidebar">
       <TwitterIcon className='sidebar--twitterIcon' />
 
-      <SidebarOption Icon={HomeIcon} text="ホーム" />
+      <SidebarOption Icon={HomeIcon} text="ホーム" active />
       <SidebarOption Icon={SearchIcon} text="話題を検索" />
       <SidebarOption Icon={NotificationsIcon} text="通知" />
       <SidebarOption Icon={MailOutlineIcon} text="メッセージ" />
