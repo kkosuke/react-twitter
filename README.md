@@ -75,3 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - yarn add @mui/material @emotion/react @emotion/styled
 - https://mui.com/material-ui/material-icons/
 - https://mui.com/material-ui/react-button/
+- `$ npm run build`、 `$ firebase deploy`
