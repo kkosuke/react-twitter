@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  --twitter-color: #50b7f5;
+  --twitter-color-deep: #0080cd;
+  --twitter-background: #e6ecf0;
 }
 
 code {
