@@ -12,9 +12,14 @@ const Timeline = () => {
 
       <TweetBox />
 
-      <Post />
-      <Post />
-      <Post />
+      <Post
+        displayName="post--headerText"
+        username="aaaaa"
+        verified={true}
+        avatar="https://pbs.twimg.com/profile_images/1390625710864166912/Y6MXQX22_x96.png"
+        text="post-headerDescription"
+        image="https://source.unsplash.com/random"
+      />
 
 
     </div>
